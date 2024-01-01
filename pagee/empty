@@ -1,0 +1,22 @@
+
+        <hr>
+
+        <h2 class="text-center mb-4">Types of mushrooms</h2>
+
+
+        <div class="card-deck">
+            <div class="card">
+                <img src="edibles.jpg" class="card-img-top" alt="Mushroom 1">
+                <div class="card-body">
+                    <h5 class="card-title">Edible Mushrooms</h5>
+                    <a href="mushroom1.html" class="btn btn-success">Learn More</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="posion.jpg" class="card-img-top" alt="Mushroom 2">
+                <div class="card-body">
+                    <h5 class="card-title">Poisonous Mushrooms</h5>
+                    <a href="mushroom1.html" class="btn btn-success">Learn More</a>
+                </div>
+            </div>
+        </div>
