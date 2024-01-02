@@ -1,1 +1,1 @@
-# Mushroom-Paradise
+# Mushroom-Party
