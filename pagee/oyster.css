@@ -8,13 +8,18 @@ body{
 
 .header{
     overflow: hidden;
-    background-color: #1a2c1d;
+    background-color: #783d19;
     padding: 10px 10px;
+}
+
+hr{
+    color: #595d2b;
+    background-color: #595d2b;
 }
 
 .header a{
     float: left;
-    color: #8e9c57;
+    color: #fefae0;
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -29,8 +34,8 @@ body{
 }
 
 .header a.active{
-    background-color: #360b1e;
-    color: #6e8856;
+    background-color: #b99470;
+    color: #fefae0;
 }
 
 .header-right{
@@ -46,28 +51,4 @@ body{
     .header-right{
         float: none;
     }
-}
-
-.jumbotron {
-    background-image: url('mushroom-feature-image-6005911c.avif');
-    background-size: cover;
-    background-position: center;
-    color: #fff;
-    padding: 100px 0;
-}
-
-hr{
-    color: #38502d;
-    background-color: #38502d;
-    width: 60%;
-}
-
-footer {
-    background-color: #360b1e;
-    padding: 10px;
-    text-align: center;
-    margin-top: 60px;
-}
-.custom-paragraph {
-    color: #6e8856;
 }

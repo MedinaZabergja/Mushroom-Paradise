@@ -8,13 +8,8 @@ body{
 
 .header{
     overflow: hidden;
-    background-color: #A24502;
+    background-color: #191716;
     padding: 10px 10px;
-}
-
-hr{
-    color: #595d2b;
-    background-color: #595d2b;
 }
 
 .header a{
@@ -34,7 +29,7 @@ hr{
 }
 
 .header a.active{
-    background-color: #CD8A39;
+    background-color: #440d0f;
     color: #fff;
 }
 
@@ -51,4 +46,20 @@ hr{
     .header-right{
         float: none;
     }
+}
+
+.btn-primary,
+.btn-success{
+    background-color: #603a40;
+    border-color: #603a40;
+}
+
+footer {
+    background-color: #84596b;
+    padding: 10px;
+    text-align: center;
+    margin-top: 7%;
+}
+.custom-paragraph {
+    color: #af9bb6;
 }

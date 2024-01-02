@@ -1,3 +1,4 @@
+/* 
 *{
     box-sizing: border-box;
 }
@@ -9,7 +10,7 @@ body{
 .header{
     overflow: hidden;
     background-color: #A24502;
-    padding: 10px 10px;
+    padding: 5px 5px;
 }
 
 hr{
@@ -29,13 +30,13 @@ hr{
 }
 
 .header a.logo img{ /*draw the logo by yourself*/
-    width: 30px;
+    /* width: 30px;
     height: auto;
 }
 
 .header a.active{
     background-color: #CD8A39;
-    color: #A24502;
+    color: #fff;
 }
 
 .header-right{
@@ -52,12 +53,48 @@ hr{
         float: none;
     }
 }
-body{
-    background-image: url(mushwall.jpg);
+/* finally TuT*/
+
+
+/* .jumbotron {
+    background-color: #28a745;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 10px 0;
 }
-div{
-    background-color: #BFC8BC;
+
+.mz-container{
+    margin: 3%;
+}  */
+
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
 }
-h1{
-    color: bisque;
+
+header {
+    background-image: url(mushroom_1292463731.webp);
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin-bottom: 2%;
+    text-align: center;
+    color: #fff;
+}
+
+.btn-primary,
+.btn-success{
+    background-color: #A24502;
+    border-color: #A24502;
+}
+
+footer {
+    background-color: #1a2c1d;
+    padding: 10px;
+    text-align: center;
+    color: #8e9c57;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
