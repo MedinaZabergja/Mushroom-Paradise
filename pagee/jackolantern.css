@@ -8,15 +8,16 @@ body{
 
 .header{
     overflow: hidden;
-    background-color: #604a33;
+    background-color: #fb8345;
     padding: 10px 10px;
 }
 
 hr{
-    color: #604a33;
-    background-color: #604a33;
+    color: #fb8345;
+    background-color: #fb8345;
     width: 100%;
 }
+
 .header a{
     float: left;
     color: #fefae0;
@@ -28,13 +29,13 @@ hr{
     border-radius: 4px;
 }
 
-.header a.logo img{ /*draw the logo by yourself*/
+.header a.logo img{
     width: 30px;
     height: auto;
 }
 
 .header a.active{
-    background-color: #a4927a;
+    background-color: #a6643d;
     color: #fefae0;
 }
 
@@ -54,7 +55,7 @@ hr{
 }
 
 .jumbotron {
-    background-image: url('Oyster-1.jpg');
+    background-image: url('jack_o_lantern.webp');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -63,17 +64,18 @@ hr{
 
 .btn-primary,
 .btn-success{
-    background-color: #a4927a;
-    border-color: #a4927a;
+    background-color: #a6643d;
+    border-color: #a6643d;
+    color: #D7DCE4;
 }
 
 
 footer {
-    background-color: #c2a88f;
+    background-color: #8a6e37;
     padding: 10px;
     text-align: center;
     margin-top: 60px;
 }
 .custom-paragraph {
-    color: #be8c6b;
+    color: #fefae0;
 }

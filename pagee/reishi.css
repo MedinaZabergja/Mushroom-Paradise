@@ -8,15 +8,16 @@ body{
 
 .header{
     overflow: hidden;
-    background-color: #604a33;
+    background-color: #A2280C;
     padding: 10px 10px;
 }
 
 hr{
-    color: #604a33;
-    background-color: #604a33;
+    color: #A2280C;
+    background-color: #A2280C;
     width: 100%;
 }
+
 .header a{
     float: left;
     color: #fefae0;
@@ -34,7 +35,7 @@ hr{
 }
 
 .header a.active{
-    background-color: #a4927a;
+    background-color: #F4A20B;
     color: #fefae0;
 }
 
@@ -54,7 +55,7 @@ hr{
 }
 
 .jumbotron {
-    background-image: url('Oyster-1.jpg');
+    background-image: url('Reishi\ \(1\).webp');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -63,17 +64,17 @@ hr{
 
 .btn-primary,
 .btn-success{
-    background-color: #a4927a;
-    border-color: #a4927a;
+    background-color: #f4a127;
+    border-color: #f4a127;
 }
 
 
 footer {
-    background-color: #c2a88f;
+    background-color: #0C5014;
     padding: 10px;
     text-align: center;
     margin-top: 60px;
 }
 .custom-paragraph {
-    color: #be8c6b;
+    color: #F6B24F;
 }

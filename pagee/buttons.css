@@ -8,18 +8,13 @@ body{
 
 .header{
     overflow: hidden;
-    background-color: #604a33;
+    background-color: #3F6A41;
     padding: 10px 10px;
 }
 
-hr{
-    color: #604a33;
-    background-color: #604a33;
-    width: 100%;
-}
 .header a{
     float: left;
-    color: #fefae0;
+    color: #Ece8df;
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -34,8 +29,8 @@ hr{
 }
 
 .header a.active{
-    background-color: #a4927a;
-    color: #fefae0;
+    background-color: #8f9e81;
+    color: #Ece8df;
 }
 
 .header-right{
@@ -54,26 +49,32 @@ hr{
 }
 
 .jumbotron {
-    background-image: url('Oyster-1.jpg');
+    background-image: url('single-mushroom.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
     padding: 100px 0;
 }
 
+hr{
+    color: #3F6A41;
+    background-color: #3F6A41;
+    width: 100%;
+}
+
 .btn-primary,
 .btn-success{
-    background-color: #a4927a;
-    border-color: #a4927a;
+    background-color: #b49578;
+    border-color: #b49578;
 }
 
 
 footer {
-    background-color: #c2a88f;
+    background-color: #E8D0B0;
     padding: 10px;
     text-align: center;
     margin-top: 60px;
 }
 .custom-paragraph {
-    color: #be8c6b;
+    color: #b49578;
 }

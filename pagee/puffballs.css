@@ -8,15 +8,16 @@ body{
 
 .header{
     overflow: hidden;
-    background-color: #604a33;
+    background-color: #1b2727;
     padding: 10px 10px;
 }
 
 hr{
-    color: #604a33;
-    background-color: #604a33;
+    color: #1b2727;
+    background-color: #1b2727;
     width: 100%;
 }
+
 .header a{
     float: left;
     color: #fefae0;
@@ -34,8 +35,8 @@ hr{
 }
 
 .header a.active{
-    background-color: #a4927a;
-    color: #fefae0;
+    background-color: #b2c5b2;
+    color: #6b8e4e;
 }
 
 .header-right{
@@ -54,7 +55,7 @@ hr{
 }
 
 .jumbotron {
-    background-image: url('Oyster-1.jpg');
+    background-image: url('puffball.webp');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -63,17 +64,18 @@ hr{
 
 .btn-primary,
 .btn-success{
-    background-color: #a4927a;
-    border-color: #a4927a;
+    background-color: #b2c5b2;
+    border-color: #b2c5b2;
+    color: #6b8e4e;
 }
 
 
 footer {
-    background-color: #c2a88f;
+    background-color: #3c5148;
     padding: 10px;
     text-align: center;
     margin-top: 60px;
 }
 .custom-paragraph {
-    color: #be8c6b;
+    color: #1b2727;
 }
